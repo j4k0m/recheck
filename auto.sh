@@ -1,5 +1,4 @@
 #!/bin/bash
-# By ael-hask
 DIR="./binaries"
 declare -a arr
 if [ ! -d "$DIR" ]; then
